@@ -1,0 +1,20 @@
+---
+title: "Home"
+about:
+  template: jolla
+  links:
+    - icon: x
+      text: Twitter/X
+      href: https://x.com/ForiscaNL
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/company/forisca-ai
+---
+
+![](images/logo_forisca.png){width="200"}
+
+## Early Warnings. Strategic Insight.
+
+*Forisca* is a political risk consultancy specializing in AI-powered early warning systems and forecasting tools for protests, instability, and regime change.
+We combine advanced machine learning models with expert political analysis to deliver timely, actionable insights to institutions operating in volatile environments.
+With a regional focus on Sub-Saharan Africa and the MENA region, Forisca supports decision-makers in navigating complex risks through real-time dashboards, tailored briefings, and predictive intelligence.

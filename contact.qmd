@@ -1,0 +1,11 @@
+---
+title: "Contact"
+format: html
+---
+
+## Get in Touch
+
+We’d love to hear from you. Whether you’re a potential client, partner, or just curious — reach out!
+
+📧 Email: [info\@forisca.ai](mailto:info@forisca.ai)\
+🌍 Location: Based in the Netherlands, operating globally

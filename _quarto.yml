@@ -1,0 +1,34 @@
+project:
+  type: website
+  output-dir: "docs"
+
+website:
+  title: "FORISCA | Early Warning. Strategic Insight"
+  navbar:
+    right: 
+      - text: "Home"
+        href: index.qmd
+      - text: "What We Do"
+        href: services.qmd
+      - text: "Contact"
+        href: contact.qmd
+    left:
+      - icon: linkedin
+        href: https://www.linkedin.com/company/forisca-ai
+      - icon: instagram
+        href: https://www.instagram.com/forisca.ai
+      - icon: twitter
+        href: https://x.com/ForiscaNL
+      
+        
+        
+format:
+  html:
+    theme:
+      - vapor
+      - brand
+    css: styles.css
+    linestretch: 1.7
+
+editor: visual
+

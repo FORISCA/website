@@ -1,0 +1,18 @@
+---
+title: "Services"
+format: html
+---
+
+## What We Do
+
+-   **Country Risk Briefings**\
+    Monthly analytical reports covering socio-political trends and emerging risks.
+
+-   **Real-Time Dashboards**\
+    AI-powered interactive platforms with early warnings, alerts, and visual maps.
+
+-   **Custom Forecasts & Data Projects**\
+    Tailored insights and models to support client-specific needs.
+
+-   **Workshops and Training**\
+    Customized sessions on AI, forecasting, and political risk for institutional teams.
