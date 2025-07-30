@@ -25,7 +25,7 @@ website:
 format:
   html:
     theme:
-      - vapor
+      - cyborg
       - brand
     css: styles.css
     linestretch: 1.7

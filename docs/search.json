@@ -19,5 +19,54 @@
     "title": "Contact",
     "section": "",
     "text": "We’d love to hear from you. Whether you’re a potential client, partner, or just curious — reach out!\n📧 Email: info@forisca.ai\n🌍 Location: Based in the Netherlands, operating globally"
+  },
+  {
+    "objectID": "services.html",
+    "href": "services.html",
+    "title": "Services",
+    "section": "",
+    "text": "Country Risk Briefings\nMonthly analytical reports covering socio-political trends and emerging risks.\nReal-Time Dashboards\nAI-powered interactive platforms with early warnings, alerts, and visual maps.\nPublic Opinion & Online Survey using targeted digital platforms (e.g., Google Ads, social media) in challenging locations\nCustom Forecasts & Data Projects\nTailored insights and models to support client-specific needs.\nWorkshops and Training\nCustomized sessions on AI, forecasting, and political risk for institutional teams."
+  },
+  {
+    "objectID": "services.html#what-we-do",
+    "href": "services.html#what-we-do",
+    "title": "Services",
+    "section": "",
+    "text": "Country Risk Briefings\nMonthly analytical reports covering socio-political trends and emerging risks.\nReal-Time Dashboards\nAI-powered interactive platforms with early warnings, alerts, and visual maps.\nPublic Opinion & Online Survey using targeted digital platforms (e.g., Google Ads, social media) in challenging locations\nCustom Forecasts & Data Projects\nTailored insights and models to support client-specific needs.\nWorkshops and Training\nCustomized sessions on AI, forecasting, and political risk for institutional teams."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "FORISCA Logo"
+  },
+  {
+    "objectID": "about.html#early-warnings.-strategic-insight.",
+    "href": "about.html#early-warnings.-strategic-insight.",
+    "title": "About",
+    "section": "Early Warnings. Strategic Insight.",
+    "text": "Early Warnings. Strategic Insight.\nForisca is a boutique political risk consultancy specializing in AI-powered early warning systems and forecasting tools for protests, instability, and regime change.\nBased in the Netherlands — working globally."
+  },
+  {
+    "objectID": "index_old.html",
+    "href": "index_old.html",
+    "title": "FORISCA",
+    "section": "",
+    "text": "Post With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nJul 16, 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJul 13, 2025\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   }
 ]

@@ -10,6 +10,9 @@ format: html
 
 -   **Real-Time Dashboards**\
     AI-powered interactive platforms with early warnings, alerts, and visual maps.
+    
+- **Public Opinion & Online Survey**
+    using targeted digital platforms (e.g., Google Ads, social media) in challenging locations
 
 -   **Custom Forecasts & Data Projects**\
     Tailored insights and models to support client-specific needs.
